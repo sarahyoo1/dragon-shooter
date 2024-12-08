@@ -1,0 +1,48 @@
+C:\Users\dongh\source\repos\cs-final\cs-final\obj\Debug\cs-final.csproj.AssemblyReference.cache
+C:\Users\dongh\source\repos\cs-final\cs-final\obj\Debug\cs_final.Form1.resources
+C:\Users\dongh\source\repos\cs-final\cs-final\obj\Debug\cs_final.Properties.Resources.resources
+C:\Users\dongh\source\repos\cs-final\cs-final\obj\Debug\cs-final.csproj.GenerateResource.cache
+C:\Users\dongh\source\repos\cs-final\cs-final\obj\Debug\cs-final.csproj.CoreCompileInputs.cache
+C:\Users\dongh\source\repos\cs-final\cs-final\bin\Debug\cs-final.exe.config
+C:\Users\dongh\source\repos\cs-final\cs-final\bin\Debug\cs-final.exe
+C:\Users\dongh\source\repos\cs-final\cs-final\bin\Debug\cs-final.pdb
+C:\Users\dongh\source\repos\cs-final\cs-final\obj\Debug\cs-final.exe
+C:\Users\dongh\source\repos\cs-final\cs-final\obj\Debug\cs-final.pdb
+C:\Users\dongh\source\repos\cs-final\cs-final\bin\Debug\Interop.WMPLib.dll
+C:\Users\dongh\source\repos\cs-final\cs-final\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\dongh\source\repos\cs-final\cs-final\obj\Debug\Interop.WMPLib.dll
+C:\Users\dongh\source\repos\cs-final\cs-final\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\dongh\source\repos\cs-final\cs-final\obj\Debug\cs-final.csproj.ResolveComReference.cache
+C:\Users\dongh\source\repos\cs-final\cs-final\obj\Debug\cs_final.Form2.resources
+C:\Users\dongh\OneDrive\바탕 화면\cs-final\cs-final\bin\Debug\cs-final.exe.config
+C:\Users\dongh\OneDrive\바탕 화면\cs-final\cs-final\bin\Debug\cs-final.exe
+C:\Users\dongh\OneDrive\바탕 화면\cs-final\cs-final\bin\Debug\cs-final.pdb
+C:\Users\dongh\OneDrive\바탕 화면\cs-final\cs-final\bin\Debug\Interop.WMPLib.dll
+C:\Users\dongh\OneDrive\바탕 화면\cs-final\cs-final\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\dongh\OneDrive\바탕 화면\cs-final\cs-final\obj\Debug\cs-final.csproj.AssemblyReference.cache
+C:\Users\dongh\OneDrive\바탕 화면\cs-final\cs-final\obj\Debug\Interop.WMPLib.dll
+C:\Users\dongh\OneDrive\바탕 화면\cs-final\cs-final\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\dongh\OneDrive\바탕 화면\cs-final\cs-final\obj\Debug\cs-final.csproj.ResolveComReference.cache
+C:\Users\dongh\OneDrive\바탕 화면\cs-final\cs-final\obj\Debug\cs_final.Form1.resources
+C:\Users\dongh\OneDrive\바탕 화면\cs-final\cs-final\obj\Debug\cs_final.Form2.resources
+C:\Users\dongh\OneDrive\바탕 화면\cs-final\cs-final\obj\Debug\cs_final.Properties.Resources.resources
+C:\Users\dongh\OneDrive\바탕 화면\cs-final\cs-final\obj\Debug\cs-final.csproj.GenerateResource.cache
+C:\Users\dongh\OneDrive\바탕 화면\cs-final\cs-final\obj\Debug\cs-final.csproj.CoreCompileInputs.cache
+C:\Users\dongh\OneDrive\바탕 화면\cs-final\cs-final\obj\Debug\cs-final.exe
+C:\Users\dongh\OneDrive\바탕 화면\cs-final\cs-final\obj\Debug\cs-final.pdb
+C:\Users\dongh\Downloads\cs-final\cs-final\bin\Debug\cs-final.exe.config
+C:\Users\dongh\Downloads\cs-final\cs-final\bin\Debug\cs-final.exe
+C:\Users\dongh\Downloads\cs-final\cs-final\bin\Debug\cs-final.pdb
+C:\Users\dongh\Downloads\cs-final\cs-final\bin\Debug\Interop.WMPLib.dll
+C:\Users\dongh\Downloads\cs-final\cs-final\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\dongh\Downloads\cs-final\cs-final\obj\Debug\cs-final.csproj.AssemblyReference.cache
+C:\Users\dongh\Downloads\cs-final\cs-final\obj\Debug\Interop.WMPLib.dll
+C:\Users\dongh\Downloads\cs-final\cs-final\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\dongh\Downloads\cs-final\cs-final\obj\Debug\cs-final.csproj.ResolveComReference.cache
+C:\Users\dongh\Downloads\cs-final\cs-final\obj\Debug\cs_final.Form1.resources
+C:\Users\dongh\Downloads\cs-final\cs-final\obj\Debug\cs_final.Form2.resources
+C:\Users\dongh\Downloads\cs-final\cs-final\obj\Debug\cs_final.Properties.Resources.resources
+C:\Users\dongh\Downloads\cs-final\cs-final\obj\Debug\cs-final.csproj.GenerateResource.cache
+C:\Users\dongh\Downloads\cs-final\cs-final\obj\Debug\cs-final.csproj.CoreCompileInputs.cache
+C:\Users\dongh\Downloads\cs-final\cs-final\obj\Debug\cs-final.exe
+C:\Users\dongh\Downloads\cs-final\cs-final\obj\Debug\cs-final.pdb
